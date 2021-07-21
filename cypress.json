@@ -1,0 +1,27 @@
+{
+    "name": "Somo Automation",
+    "version": "1.0.0",
+    "description": "Basic authentication and Notification",
+    "main": "index.js",
+    
+    "scripts": {
+      "test": "cypress:run"
+      
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cypress-io/cypress-example-todomvc-redux.git"
+    },
+    "keywords": [
+      "cypress",
+      "cypress-example"
+    
+    ],
+    "author": "Kamesh Raj Rajendran <kmshraj@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "cypress": "6.4.0"
+      }
+   
+  }
+  
