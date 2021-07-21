@@ -2,34 +2,34 @@
 somo automation test
 
 Somo Automation Engineer Take Home TestAssignmentCreate  selected 2 of the 4 exercises below and build out automated tests andtest cases around the elements:
+
 ●Form Authentication - ​http://the-internet.herokuapp.com/login
+
 
 ●Notification Messages - ​http://the-internet.herokuapp.com/notification_message_rendered
 
 
-Testing
+**Installation and Set up**
 
 The steps below will take you all the way through Cypress. It is assumed you have nothing installed except for node + git.
 
-If you get stuck, here is more help:
 
-    Cypress Support
+1) Git clone https://github.com/kmshraj/somo-cypress
 
-Git clone https://github.com/kmshraj/somo-cypress
+2) Navigate to somo-cypress on visual studio code 
 
-Navigate to somo-cypress on visual studio code 
+3) Follow these instructions to install Cypress
+   npx install cypress
 
-Follow these instructions to install Cypress.
+   You should see
+   Downloade Cypress
+   Unzipped Cypress
+   Finished Cypress
 
-npx install cypress
-
-You should see
-Downloade Cypress
-Unzipped Cypress
-Finished Cypress
-
-## install the node_modules
-npm install
+4) install the node_modules
+   npm install
+   
+**To run the tests**
 
 # run  All Cypress tests headlessly
 npx cypress run
