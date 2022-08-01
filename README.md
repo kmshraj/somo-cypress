@@ -1,5 +1,5 @@
 # somo-cypress
-somo automation test
+somo cypress automation test
 
 Somo Automation Engineer Take Home TestAssignmentCreate  selected 2 of the 4 exercises below and build out automated tests andtest cases around the elements:
 
